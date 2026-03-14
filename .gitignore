@@ -1,0 +1,4 @@
+node_modules
+.env
+journal.db
+.DS_Store
